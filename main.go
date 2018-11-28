@@ -1,5 +1,6 @@
 package main
 
-func main()  {
-	
+func main() {
+	cli := CLI{}
+	cli.Run()
 }
